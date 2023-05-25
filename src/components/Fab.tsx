@@ -37,6 +37,7 @@ const styles = StyleSheet.create({
     width: 50,
     zIndex: 10,
     borderRadius: 100,
+    backgroundColor: 'tomato',
     justifyContent: 'center',
     alignItems: 'center',
     shadowColor: '#000',
